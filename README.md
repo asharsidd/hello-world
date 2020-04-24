@@ -3,4 +3,4 @@ Test Program
 
 Hello everyone!
 
-This is a UC Engineer tryinng to get on Scripting and Automation :)
+This is a UC Engineer trying to get on Scripting :)
